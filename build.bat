@@ -1,0 +1,1 @@
+cl clipboard.c user32.lib /O2
